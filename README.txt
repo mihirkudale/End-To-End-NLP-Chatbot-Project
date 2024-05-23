@@ -1,5 +1,3 @@
-# End-To-End-NLP-Chatbot-Project
-
 Directory structure
 ===================
 backend: Contains Python FastAPI backend code
